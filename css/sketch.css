@@ -1,0 +1,25 @@
+h1{
+	text-align: center;
+}
+
+.grid-space{
+
+	width: 200px;
+	height: 400px;
+	margin: 50px auto;
+}
+
+
+.gridbox{
+	float: left;	
+	width: 48px;
+	height: 48px;
+	background: gray;
+	border: 1px solid black;
+	margin: 0px
+}
+
+.grid-clear{
+	clear: left;
+	
+}
